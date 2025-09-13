@@ -1,0 +1,7 @@
+cough,fever,tiredness,loss of taste or smell,sore_throat,headache,aches and pains,diarrhoea,red or irritated eyes,loss of speech,shortness_of_breath,test_indication,label
+0,0,0,0,0,0,0,0,0,0,0,0,0
+1,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,0,0,0,0,0,0,0,0,0,0,0
+1,1,1,1,0,1,0,0,0,0,0,0,1
+0,1,1,0,1,1,1,0,1,0,0,0,1
+0,0,1,0,0,1,1,0,0,0,0,0,0

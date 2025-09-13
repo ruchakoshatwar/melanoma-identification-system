@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/andrewmvd/isic-2019?select=ISIC_2019_Training_Input
+
+
+https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images/code
