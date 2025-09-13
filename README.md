@@ -13,7 +13,7 @@ A **deep learning-based web application** to detect melanoma (a type of skin can
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Java  
 - **Machine Learning:** Python, TensorFlow, Keras, NumPy, Pandas, OpenCV
-- - **Database:** MySQL  
+- **Database:** MySQL  
 
 
 
